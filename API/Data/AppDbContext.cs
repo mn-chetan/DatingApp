@@ -1,4 +1,4 @@
-using API.Controllers;
+using API.Entity;
 using Microsoft.EntityFrameworkCore;
 
 namespace API.Data;
